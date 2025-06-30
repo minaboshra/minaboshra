@@ -49,4 +49,4 @@
 - CI/CD Pipelines
 - Database Indexing & Query Tuning
 
-📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/mina-boshra-webdeveloper/) | [Personal Portfolio](your-portfolio-url)
+📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/mina-boshra-webdeveloper/) | [Personal Portfolio](https://github.com/minaboshra)
