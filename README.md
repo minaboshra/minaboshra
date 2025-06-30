@@ -49,4 +49,10 @@
 - CI/CD Pipelines
 - Database Indexing & Query Tuning
 
+## Architecture Overview
+![API Architecture](images/architecture.png)
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=minaboshra&show_icons=true&theme=dark&hide=issues)
+
 📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/mina-boshra-webdeveloper/) | [Personal Portfolio](https://github.com/minaboshra)
